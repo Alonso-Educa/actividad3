@@ -2,3 +2,7 @@ Primera línea de acti31.txt
 Segunda línea de acti31.txt
 Tercera línea de acti31.txt
 Fin
+Nueva línea 1
+Nueva línea 2
+Nueva línea 3
+Nuevo fin
