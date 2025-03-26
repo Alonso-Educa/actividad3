@@ -1,0 +1,4 @@
+Primera línea de acti32.txt
+Segunda línea de acti32.txt
+Tercera línea de acti32.txt
+Fin
